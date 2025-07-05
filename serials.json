@@ -1,4 +1,12 @@
 {
-  "ABC-123": { "user": "Ahmed", "active": true },
-  "XYZ-789": { "user": "Fatima", "active": false }
+  "ABC-123": {
+    "user": "Ahmed",
+    "active": true,
+    "expires": "2025-08-10 23:59:00"
+  },
+  "XYZ-456": {
+    "user": "Fatima",
+    "active": false,
+    "expires": "2025-08-05 12:00:00"
+  }
 }
