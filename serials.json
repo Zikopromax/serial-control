@@ -1,0 +1,4 @@
+{
+  "ABC-123": { "user": "Ahmed", "active": true },
+  "XYZ-789": { "user": "Fatima", "active": false }
+}
