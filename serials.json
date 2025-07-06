@@ -56,8 +56,8 @@
   "Sbe3Dialna-6GQKJ-MYH09Z-QG7HMA": {
     "user": "User",
     "expires": "2025-08-05 06:22:14",
-    "active": true,
-    "mac": "90:2E:16:3F:8A:22",
-    "reset": false
+    "active": false,
+    "mac": "",
+    "reset": true
   }
 }
