@@ -30,7 +30,8 @@
     "user": "azzaz",
     "expires": "2025-08-04 03:56:57",
     "active": true,
-    "mac": "90:2E:16:3F:8A:22"
+    "mac": "90:2E:16:3F:8A:22",
+    "reset": false
   },
   "HAKaSBE3-LJSMXU-9T9BQP": {
     "user": "zaz",
