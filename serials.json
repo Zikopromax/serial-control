@@ -9,5 +9,16 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-07-06 23:02:40"
+  },
+  "HAKaSBE3-BWHAWD-2RCZX5": {
+    "user": "2",
+    "active": true,
+    "expires": "2025-08-05 23:13:28",
+    "mac": "8a:22",
+    "ip": "",
+    "location": "",
+    "online": false,
+    "last_online": "Never",
+    "created_at": "2025-07-06 23:13:28"
   }
 }
