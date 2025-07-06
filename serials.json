@@ -3,5 +3,11 @@
     "user": "Fatima",
     "active": false,
     "expires": "2025-08-05 12:00:00"
+  },
+  "HAKaSBE3-OQPZYO-HN3MDK": {
+    "user": "za",
+    "active": true,
+    "expires": "2025-08-05 03:02:31",
+    "mac": "8a:22"
   }
 }
