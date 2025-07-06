@@ -50,8 +50,8 @@
   "HAKaSBE3-LI20GW-MIWS7Y": {
     "user": "azzaz",
     "expires": "2025-08-04 04:25:36",
-    "active": true,
-    "mac": "90:2E:16:3F:8A:22"
+    "active": false,
+    "mac": ""
   },
   "Sbe3Dialna-6GQKJ-MYH09Z-QG7HMA": {
     "user": "User",
