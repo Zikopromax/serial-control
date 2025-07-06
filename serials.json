@@ -60,5 +60,12 @@
     "active": false,
     "mac": "",
     "reset": true
+  },
+  "Sbe3Dialna-L1KY5-SRFTNH-QEA3MA": {
+    "user": "azzaz",
+    "expires": "2025-08-03 09:36:44",
+    "active": true,
+    "mac": "90:2E:16:3F:8A:22",
+    "reset": false
   }
 }
