@@ -36,9 +36,9 @@
   "HAKaSBE3-LJSMXU-9T9BQP": {
     "user": "zaz",
     "expires": "2025-08-04 03:57:07",
-    "active": true,
-    "mac": "90:2E:16:3F:8A:22",
-    "reset": false
+    "active": false,
+    "mac": "",
+    "reset": true
   },
   "HAKaSBE3-XQ42MS-8KL6X5": {
     "user": "azzaz",
