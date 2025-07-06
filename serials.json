@@ -20,5 +20,16 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-07-06 23:35:12"
+  },
+  "HAKaSBE3-P5LFXH-1H7PXZ": {
+    "user": "zaz",
+    "active": true,
+    "expires": "2025-08-05 23:59:51",
+    "mac": "8a:22",
+    "ip": "",
+    "location": "",
+    "online": false,
+    "last_online": "Never",
+    "created_at": "2025-07-06 23:59:51"
   }
 }
