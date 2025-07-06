@@ -2,7 +2,8 @@
   "XYZ-456": {
     "user": "Fatima",
     "active": false,
-    "expires": "2025-08-05 12:00:00"
+    "expires": "2025-08-05 12:00:00",
+    "mac": ""
   },
   "HAKaSBE3-OQPZYO-HN3MDK": {
     "user": "za",
