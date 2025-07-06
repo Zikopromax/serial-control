@@ -31,5 +31,16 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-07-06 23:59:51"
+  },
+  "HAKaSBE3-QRH3A3-YCT4R4": {
+    "user": "Fatima",
+    "active": true,
+    "expires": "2025-08-06 00:04:31",
+    "mac": "8a:22",
+    "ip": "",
+    "location": "",
+    "online": false,
+    "last_online": "Never",
+    "created_at": "2025-07-07 00:04:31"
   }
 }
