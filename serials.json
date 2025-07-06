@@ -9,5 +9,12 @@
     "active": true,
     "expires": "2025-08-05 03:02:31",
     "mac": ""
+  },
+  "HAKaSBE3-PSTVZB-4SA2S4": {
+    "user": "zaz",
+    "active": true,
+    "expires": "2025-08-05 03:16:11",
+    "mac": "",
+    "created_at": "2025-07-06 03:16:11"
   }
 }
