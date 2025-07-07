@@ -31,5 +31,16 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-07-06 23:59:51"
+  },
+  "HAKaSBE3-E29DJH-X9I9VY": {
+    "user": "Simo",
+    "active": true,
+    "expires": "2025-08-06 03:04:55",
+    "mac": "8a:22",
+    "ip": "",
+    "location": "",
+    "online": false,
+    "last_online": "Never",
+    "created_at": "2025-07-07 03:04:55"
   }
 }
