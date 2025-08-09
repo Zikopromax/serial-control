@@ -1,15 +1,4 @@
 {
-  "HAKaSBE3-P5LFXH-1H7PXZ": {
-    "user": "zaz",
-    "active": false,
-    "expires": "2025-08-05 23:59:51",
-    "mac": "90:2E:16:3F:8A:22",
-    "ip": "",
-    "location": "",
-    "online": false,
-    "last_online": "Never",
-    "created_at": "2025-07-06 23:59:51"
-  },
   "HAKaSBE3-S2D0UT-IMBG19": {
     "user": "Amina",
     "active": true,
