@@ -21,16 +21,5 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-08-09 04:27:47"
-  },
-  "HAKaSBE3-UQGN4R-BJGMBM": {
-    "user": "Hamza",
-    "active": true,
-    "expires": "2025-09-08 04:46:29",
-    "mac": "90:2E:16:3F:8A:22",
-    "ip": "",
-    "location": "",
-    "online": false,
-    "last_online": "Never",
-    "created_at": "2025-08-09 04:46:29"
   }
 }
