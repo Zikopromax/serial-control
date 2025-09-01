@@ -86,16 +86,5 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-08-24 00:22:12"
-  },
-  "HAKaSBE3-RY8SUD-MXRFTD": {
-    "user": "Khadija",
-    "active": true,
-    "expires": "2025-09-23 03:42:04",
-    "mac": "34:E6:AD:63:E3:7B",
-    "ip": "",
-    "location": "",
-    "online": false,
-    "last_online": "Never",
-    "created_at": "2025-08-24 03:42:04"
   }
 }
