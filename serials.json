@@ -20,5 +20,16 @@
     "online": false,
     "last_online": "Never",
     "created_at": "2025-09-04 03:01:57"
+  },
+  "HAKaSBE3-O81QC5-0QNBCJ": {
+    "user": "Zineb",
+    "active": true,
+    "expires": "2025-10-04 03:05:19",
+    "mac": "8a:22",
+    "ip": "",
+    "location": "",
+    "online": false,
+    "last_online": "Never",
+    "created_at": "2025-09-04 03:05:19"
   }
 }
